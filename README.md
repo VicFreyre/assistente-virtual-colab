@@ -55,7 +55,7 @@ O notebook está dividido em células:
 
 ---
 
-##👩‍💻 Autora
+## 👩‍💻 Autora
 
 [Victória Freyre](https://www.linkedin.com/in/vict%C3%B3ria-freyre-220b05291/)
 
